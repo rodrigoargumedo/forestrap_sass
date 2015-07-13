@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rodrigo.argumedo@icloud.com"]
 
   spec.summary       = %q{Web Framework for Rails.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/rodrigoargumedo/forestrap_sass"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
